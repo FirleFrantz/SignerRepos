@@ -1,7 +1,7 @@
 {
   "name": "AppTesters IPA Repo",
   "identifier": "org.apptesters.repo",
-  "iconURL": "https://imgur.com/G4kZmAC",
+  "iconURL": "https://raw.githubusercontent.com/FirleFrantz/SignerRepos/main/apptesters.png",
   "description": "Biggest Updated Modified IPA Library for Sideloading - AppTesters.org",
   "apps": [
     {
